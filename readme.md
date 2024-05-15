@@ -10,8 +10,6 @@
 
 **prompt** : se utiliza para mostrar un cuadro de diálogo al usuario, solicitando que ingrese algún dato o información.
 
-
-
 ### CONCATENACION:
 Es el proceso de unir dos o más cadenas de texto para formar una cadena más larga.
 1. ES5 (MANUAL):
@@ -57,7 +55,6 @@ El decremento (`--`), cuando se aplica a una variable, disminuye su valor en 1 u
 3. Intento de división por una cadena no numérica: se refiere a una operación donde se intenta dividir un número por una cadena de texto que no representa un número. 
 
 4. Operador de desigualdad estricta (`!==`): es similar al operador de igualdad estricta (===), pero devuelve true si los valores son diferentes o si los tipos de datos son diferentes.
-
 
 ## BOOLEANS: 
 Son un tipo de dato que pueden tener dos valores posibles: `true` o `false` . Se utilizan en expresiones condicionales y operaciones lógicas para representar el estado de la condición.
