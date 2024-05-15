@@ -16,7 +16,7 @@ Es el proceso de unir dos o más cadenas de texto para formar una cadena más la
 La concatenación de cadenas se realiza manualmente utilizando el operador `+` para unir las partes de la cadena.
 
 2. ES6 (TEMPLATE STRING);
-Se introducen las template strings utilizando el acento grave/backtick () para delimitar la cadena. Dentro de una template string, puedes incluir variables y expresiones utilizando `${}`.
+Se introducen las template strings utilizando el acento grave/backtick () para delimitar la cadena. Dentro de una template string, puedes incluir variables y expresiones utilizando `${`.
 
 ## Números:
 Los números son valores numéricos utilizados en operaciones matemáticas.
